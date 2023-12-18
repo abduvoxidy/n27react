@@ -1,0 +1,8 @@
+npm create vite@latest - komandani terminalga yoziladi
+npm install yoki (npm i) - komandasi beriladi
+npm run dev - proyekt run qilinadi
+
+npm install package_nomi - package ustanovka qilish uchun,
+ ustanovka qilingan packge package.json da ko'rinadi
+
+ npm install package_nomi@versiya_nomer - versiyasi bilan ustanovka qilish
